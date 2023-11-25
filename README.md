@@ -9,3 +9,6 @@ Feature:
 * Response Management: Add, save, and manage preferred responses.
 * Storage: Store and access the collected responses.
 
+### Built With
+* Python
+* Pycharm
