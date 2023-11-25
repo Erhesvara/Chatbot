@@ -1,5 +1,6 @@
 # Chatbot
-Chatbot using python 
+
+Chatbot just using python 
 
 Technology used:
 * Python
