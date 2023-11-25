@@ -29,7 +29,8 @@ Feature:
    ```
 3. Navigate to the project directory.
 4. Run python Chatbot.py to start the chatbot.
-   ![image](https://github.com/Erhesvara/Chatbot/assets/106751010/5f3038eb-ad36-4c5a-8385-ff8b8e31e975)
+   
+![image](https://github.com/Erhesvara/Chatbot/assets/106751010/5f3038eb-ad36-4c5a-8385-ff8b8e31e975)
 
 
 ## Usage
