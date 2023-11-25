@@ -1,0 +1,12 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "wassup",
+      "answer": "wassup!"
+    }
+  ]
+}
