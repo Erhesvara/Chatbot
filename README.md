@@ -10,8 +10,7 @@ Feature:
 * Storage: Store and access the collected responses.
 
 ### Built With
-* Python
-* Pycharm
+* Python and Pycharm
 * JSON
 
 ## Getting Started
