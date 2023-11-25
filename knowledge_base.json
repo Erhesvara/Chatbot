@@ -7,6 +7,14 @@
     {
       "question": "wassup",
       "answer": "wassup!"
+    },
+    {
+      "question": "Hi",
+      "answer": "hello! how are you?"
+    },
+    {
+      "question": "I'm fine thanks",
+      "answer": "Good to hear! just ask me anything that can help you"
     }
   ]
 }
