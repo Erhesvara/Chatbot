@@ -13,3 +13,7 @@ Feature:
 * Python
 * Pycharm
 * JSON
+
+## Getting Started
+
+_just run the app.py_
