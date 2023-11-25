@@ -25,7 +25,7 @@ Feature:
 
 1. Clone the repo
    ```sh
-   [git clone https://github.com/your_username_/Project-Name.git](https://github.com/Erhesvara/Collection-Of-Videos](https://github.com/Erhesvara/Chatbot)
+   git clone https://github.com/Erhesvara/Chatbot.git
    ```
 3. Navigate to the project directory.
 4. Run python Chatbot.py to start the chatbot.
