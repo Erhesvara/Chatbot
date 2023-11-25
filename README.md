@@ -18,5 +18,5 @@ Feature:
 
 ### Prerequisites
 
-Python installed on your system (version X.X or higher)
-Any additional libraries or dependencies needed
+* Python installed on your system and IDE ready
+* Any additional libraries or dependencies needed
