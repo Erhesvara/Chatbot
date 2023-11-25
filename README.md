@@ -16,4 +16,7 @@ Feature:
 
 ## Getting Started
 
-_just run the app.py_
+### Prerequisites
+
+Python installed on your system (version X.X or higher)
+Any additional libraries or dependencies needed
