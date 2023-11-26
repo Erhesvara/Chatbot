@@ -31,7 +31,6 @@ Feature:
    
 ![image](https://github.com/Erhesvara/Chatbot/assets/106751010/5f3038eb-ad36-4c5a-8385-ff8b8e31e975)
 
-
 ## Usage
 
 After Running the Chatbot.py interact and engage in conversation within the console interaction
