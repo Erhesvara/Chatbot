@@ -1,5 +1,4 @@
 # Chatbot
-
 ## About The Project
 
 This project demonstrates a chatbot implemented in Python for console interaction.
