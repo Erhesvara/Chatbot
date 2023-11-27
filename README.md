@@ -34,5 +34,3 @@ Feature:
 ## Usage
 
 After Running the Chatbot.py interact and engage in conversation within the console interaction
-
-
